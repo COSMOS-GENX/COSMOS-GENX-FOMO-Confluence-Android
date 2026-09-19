@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Build-safe placeholders. Fill these from Firebase Project settings > Your Android app. -->
-    <string name="firebase_app_id"></string>
-    <string name="firebase_api_key"></string>
-    <string name="firebase_project_id"></string>
-    <string name="firebase_sender_id"></string>
-</resources>
