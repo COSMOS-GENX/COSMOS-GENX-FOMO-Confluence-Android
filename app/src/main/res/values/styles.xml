@@ -1,0 +1,3 @@
+<resources>
+<style name="Theme.FOMO" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#9FE7FF</item><item name="android:navigationBarColor">#080B12</item><item name="android:statusBarColor">#080B12</item><item name="android:windowLightStatusBar">false</item></style>
+</resources>
